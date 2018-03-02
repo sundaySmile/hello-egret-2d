@@ -1,0 +1,13 @@
+{
+	"groups":[
+	{
+		"keys":"sprites_json",
+		"name":"preload"
+	}],
+	"resources":[
+	{
+		"name":"sprites_json",
+		"type":"sheet",
+		"url":"assets/Sprites.json"
+	}]
+}
